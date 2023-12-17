@@ -1,0 +1,1 @@
+!function(){"use strict";function a(a){document.querySelector(".menu").classList.toggle("open")}document.addEventListener("DOMContentLoaded",function(b){document.querySelector("#mobileMenu").addEventListener("click",a)})}()
